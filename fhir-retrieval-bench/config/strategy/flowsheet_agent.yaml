@@ -1,4 +1,0 @@
-strategy:
-  name: flowsheet_agent
-  downsampling_enable_llm_control: true
-  date_selection_enabled: true

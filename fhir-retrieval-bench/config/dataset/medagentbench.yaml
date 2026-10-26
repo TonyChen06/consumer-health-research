@@ -1,4 +1,0 @@
-dataset:
-  name: medagentbench
-  qa_path: data/medagentbench/qa.pickle
-  fhir_path: data/medagentbench/fhir_bundles.pq

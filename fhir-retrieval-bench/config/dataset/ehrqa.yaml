@@ -1,4 +1,0 @@
-dataset:
-  name: ehrqa
-  qa_path: data/ehrqa/qa.pickle
-  fhir_path: data/ehrqa/fhir_bundles.pq

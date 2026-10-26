@@ -1,3 +1,0 @@
-strategy:
-  name: "embedding_csl"
-  embedding_csl_saliency_threshold: 0.75
