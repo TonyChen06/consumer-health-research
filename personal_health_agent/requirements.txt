@@ -1,6 +1,6 @@
 # Core Scientific Stack
-pandas>=2.0.0
-numpy>=1.24.0
+pandas==3.0.6
+numpy==2.5.4
 matplotlib>=3.8.0
 scipy>=1.10.0
 seaborn>=0.13.0
@@ -13,7 +13,7 @@ ddgs>=7.0.0
 # Note: onetwo itself is installed separately via setup.sh with --no-deps
 
 # OpenAI & Anthropic (optional, for multi-provider support)
-openai>=1.0.0
+openai==3.31.0
 anthropic>=0.20.0
 
 # Utilities & Serialization
@@ -41,4 +41,4 @@ uvicorn[standard]>=0.27.0
 pydantic>=2.0.0
 
 # Onetwo
-git+https://github.com/google-deepmind/onetwo
+git+https://github.com/google-deepmind/onetwo@b13bbf8adf894f42ca42a2a8a8a9bf95db98e03d
